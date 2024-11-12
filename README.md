@@ -5,11 +5,11 @@
 ## 新しい記事を作成する
 
 ```sh
-npx zenn new:article
+pnpm new-article
 ```
 
 ## 投稿をプレビューする
 
 ```sh
-npx zenn preview
+pnpm preview
 ```
