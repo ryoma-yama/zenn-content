@@ -16,9 +16,7 @@ pnpm article --slug $(date +%y%m%d)-title-*
 - `$(date +%y%m%d)`: 年月日各二桁
 - [zenn-create](https://github.com/soags/zenn-create/tree/main): Zenn CLI改良版
 
-ファイル名の制約: 12-50文字の長さで半角小文字英数字と記号`-`
-
-241127-fallback-og-image-papermod-a8e44cdb6d6b4e
+ファイル名の制約: 12-50文字の長さで半角小文字英数字と記号`-`の組み合わせ
 
 ## 投稿をプレビューする
 
